@@ -1,0 +1,524 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pore helpe. The buklar and defence of mother holy kyrke, and weapē to driue hence al that against her wircke..</title>
+            <author>Shepherd, Luke, fl. 1548.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1548</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07734</idno>
+            <idno type="OCLC"> 76698393</idno>
+            <idno type="STC">STC 13051.7</idno>
+            <idno type="STC">ESTC S92913</idno>
+            <idno type="EEBO-CITATION">76698393</idno>
+            <idno type="OCLC">ocm 76698393</idno>
+            <idno type="VID">184243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184243)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 2242:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pore helpe. The buklar and defence of mother holy kyrke, and weapē to driue hence al that against her wircke..</title>
+                  <author>Shepherd, Luke, fl. 1548.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Wyer,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1548?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Luke Shepherd. Cf. STC (2nd ed.).</note>
+                  <note>Imprint from STC.</note>
+                  <note>In verse. Text in black letter.</note>
+                  <note>Signatures: A-A⁸.</note>
+                  <note>Title within illustrated border (McK. &amp; Ferg. 25).</note>
+                  <note>Reproduction of the original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Protestantism --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184243:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>engraved historiated border</figDesc>
+                  <p>A pore helpe<g ref="char:punc">▪</g>
+                  </p>
+                  <p>☜⸫☞</p>
+                  <q>
+                     <l>¶ The buklar and defence</l>
+                     <l>Of mother holy kyrke,</l>
+                     <l>And weape<g ref="char:cmbAbbrStroke">̄</g> to driue hence</l>
+                     <l>Al that againſt her wircke</l>
+                  </q>
+                  <p>
+                     <g ref="char:leaf">❧</g>
+                     <g ref="char:leaf">❧</g>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184243:2"/>
+            <l>
+               <seg rend="decorInit">W</seg>Yll none in all this lande</l>
+            <l>Step forth and take in hande</l>
+            <l>Theſe felowes to withſtance</l>
+            <l>In nombrelyke the ſande</l>
+            <l>That with the Goſpell melles</l>
+            <l>And wyll do nothynge elles</l>
+            <l>But tratlynge tales telies</l>
+            <l>Agaynſt our holy prelacie</l>
+            <l>And holy churches dygnitie</l>
+            <l>Sayinge it is but papiſtrie</l>
+            <l>Yea fayned and Hipocriſy</l>
+            <l>Erronious and hereſye</l>
+            <l>And taketh theyr aucthoritie</l>
+            <l>Out of the holy Euangelie</l>
+            <l>All cuſtomes ceremoniall</l>
+            <l>And rytes eccleſiaſticall</l>
+            <l>Not grounded on ſcripture</l>
+            <l>No longer to endure</l>
+            <l>And thus ye maye be ſure</l>
+            <l>The people they alure</l>
+            <l>And drawe them from your lore</l>
+            <l>The whiche wyll greue you ſore</l>
+            <l>Take hede I ſaye therfore</l>
+            <l>Your nede was neuer more</l>
+            <l>But ſens ye be ſo ſlacke</l>
+            <l>It greueth me a lacke</l>
+            <l>To heare behynde your backe</l>
+            <l>
+               <pb facs="tcp:184243:2"/>
+Howe they wyll carpe and cracke</l>
+            <l>And none of you that dare</l>
+            <l>Whiche one of them compare</l>
+            <l>Yet ſome there be that are</l>
+            <l>So bolde to ſhewe theyr ware</l>
+            <l>And is no prieſt nor deacon</l>
+            <l>And yet wyll fyre his becone</l>
+            <l>Agaynſt ſuche felowes frayle</l>
+            <l>Make out with tothe and nayle</l>
+            <l>And hoyſte vp meyne ſayle</l>
+            <l>And manfully to fyght</l>
+            <l>In holy prelates ryght</l>
+            <l>With penne and ynke and paper</l>
+            <l>And lyke no triflynge Iaper</l>
+            <l>To touche theſe felowes in dede</l>
+            <l>With all expedient ſpede</l>
+            <l>And not before it nede</l>
+            <l>And I in dede am he</l>
+            <l>That wayteth for to ſe</l>
+            <l>Who dare ſo hardy be</l>
+            <l>To encounter here with me</l>
+            <l>I ſtande here in defence</l>
+            <l>Of ſome that be far hence</l>
+            <l>And can both blyſſe and ſence</l>
+            <l>And alſo vndertake</l>
+            <l>Ryght holy thynges to make</l>
+            <l>Yea God within a cake</l>
+            <l>
+               <pb facs="tcp:184243:3"/>
+And who ſo that forſake</l>
+            <l>His breade ſhall be dowe bake</l>
+            <l>I openly profeſſe</l>
+            <l>The holy blyſſed maſſe</l>
+            <l>Of ſtrength to be no leſſe</l>
+            <l>Then it was at the fyrſt</l>
+            <l>But I wolde ſe who durſt</l>
+            <l>Set that amonge the worſt</l>
+            <l>For he ſhulde be acurſt</l>
+            <l>With boke, bell and candell</l>
+            <l>And ſo I wolde hym handell</l>
+            <l>That he ſhulde ryght well knowe</l>
+            <l>Howe to eſcape I trowe</l>
+            <l>So hardy on his heade</l>
+            <l>Depraue our holy breade</l>
+            <l>Or els to prate or patter</l>
+            <l>Agaynſt our holy watter</l>
+            <l>This is a playne matter</l>
+            <l>It nedeth not to flatter</l>
+            <l>They be ſuche holy thynges</l>
+            <l>As hath ben vſed with kynges</l>
+            <l>And yet theſe lewde loſelles</l>
+            <l>That bragge vpon theyr Goſpelles</l>
+            <l>At ceremonies ſwelles</l>
+            <l>And at our chriſtined belles</l>
+            <l>And at our longe gownes</l>
+            <l>And at your ſhauen crownes</l>
+            <l>
+               <pb facs="tcp:184243:3"/>
+And at your typttes fyne</l>
+            <l>The Iauelles wyll repyue</l>
+            <l>They ſaye ye leade euyll lyues</l>
+            <l>With other mennes wyues</l>
+            <l>And wyll none of your owne</l>
+            <l>And ſo your ſede is ſowne</l>
+            <l>In other mennes grounde</l>
+            <l>True wedlocke to confounde</l>
+            <l>Thus do they rayle and raue</l>
+            <l>Callynge euery prieſt knaue</l>
+            <l>That loueth meſſe to ſaye</l>
+            <l>And after ydle all daye</l>
+            <l>They wolde not haue you playe</l>
+            <l>To dryue the tyme awaye</l>
+            <l>But brabble on the Byble</l>
+            <l>Whiche is but vnpoſſible</l>
+            <l>To be learned in all your lyfe</l>
+            <l>Yet therin be they ryfe</l>
+            <l>Whiche maketh all this ſtryfe</l>
+            <l>And alſo the Paraphraſies</l>
+            <l>Moche dyfferyng from your portaiſes</l>
+            <l>They wolde haue dayly vſed</l>
+            <l>And portaiſe cleane refuſed</l>
+            <l>But they ſhall be accuſed</l>
+            <l>That haue ſo farre abuſed</l>
+            <l>Theyr tongues agaynſt ſuche holynes</l>
+            <l>
+               <pb facs="tcp:184243:4"/>
+And holy churches buſynes</l>
+            <l>Made hundred yeares a go</l>
+            <l>Great clearkes affyrmeth ſo</l>
+            <l>And other many mo</l>
+            <l>That ſearched to and fro.</l>
+            <l>In ſcripture for to fynde</l>
+            <l>What they myght leaue behynde</l>
+            <l>For to be kept in mynde</l>
+            <l>Amonge the people blynde</l>
+            <l>As wauerynge as the wynde</l>
+            <l>And wrote therof ſuche bokes</l>
+            <l>That who ſo on them lokes</l>
+            <l>Shall fynde them to be clarkes</l>
+            <l>As proueth by theyr warkes</l>
+            <l>And yet there be that barcke</l>
+            <l>And ſaye they be but darcke</l>
+            <l>But harke ye loulars harke</l>
+            <l>So well we ſhall you marcke</l>
+            <l>That yf the worlde ſhall turne</l>
+            <l>A ſorte of you ſhall burne</l>
+            <l>Ye durſt as well I ſaye</l>
+            <l>Within this two yeares daye</l>
+            <l>As ſoone to runne awaye</l>
+            <l>As ſuche partes to playe</l>
+            <l>When ſome dyd rule and reygne</l>
+            <l>And auncient thynges mayntayne</l>
+            <l>
+               <pb facs="tcp:184243:4"/>
+Whiche nowe be counted hayne</l>
+            <l>And brought into dyſdayne</l>
+            <l>Suche men I ſaye they were</l>
+            <l>As loued not this geare</l>
+            <l>And kept you ſtyll in feare</l>
+            <l>To burne <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r faggottes here</l>
+            <l>Then durſt ye not be bolde</l>
+            <l>(Agaynſt our learnynges olde</l>
+            <l>Or images of golde</l>
+            <l>Whiche nowe be bought and ſolde</l>
+            <l>And were the laye mannes boke</l>
+            <l>Wheron they ought to loke)</l>
+            <l>One worde to ſpeake a myſſe</l>
+            <l>Can ye ſaye nay to this?</l>
+            <l>No no ye foles I wyſſe</l>
+            <l>A thynge to playne it is.</l>
+            <l>Then dyd theſe clarkes diuyne</l>
+            <l>Dayly them ſelues enclyne</l>
+            <l>To proue and to defyue</l>
+            <l>That Chriſtes body aboue</l>
+            <l>Whiche ſuffered for our loue</l>
+            <l>And dyed for our behoue</l>
+            <l>Is in the ſacrament</l>
+            <l>Fleſhe bloude and boue preſent</l>
+            <l>And breade and wyne awaye</l>
+            <l>Aſſone as they ſhall ſaye</l>
+            <l>
+               <pb facs="tcp:184243:5"/>
+The wordes of conſecracion</l>
+            <l>In tyme of celebracion</l>
+            <l>So muſte it be in dede</l>
+            <l>Thoughe it be not in the crede</l>
+            <l>And yet theſe felowes newe</l>
+            <l>Wyll ſaye it is not true</l>
+            <l>Chriſtes body for to vewe</l>
+            <l>With any bodyly eye</l>
+            <l>That do they playne deny</l>
+            <l>And ſtifly ſtande therby</l>
+            <l>And enterpryſe to wryght</l>
+            <l>And alſo to endyght</l>
+            <l>Bokes both great and ſmall</l>
+            <l>Agaynſt theſe fathers all</l>
+            <l>And hereſy it call</l>
+            <l>That any man ſhulde teache</l>
+            <l>Or to the people preache</l>
+            <l>Suche thynges without theyr reache</l>
+            <l>And ſome there be that ſaye</l>
+            <l>That Chriſt cannot all day</l>
+            <l>Be kept within a box</l>
+            <l>Nor yet ſet in the ſtockes</l>
+            <l>Nor hydden lyke a fox</l>
+            <l>Nor preſoner vnderlockes</l>
+            <l>Nor clothed with powdred armyne</l>
+            <l>Nor bredeth ſtynkynge vermyne</l>
+            <l>Nor dweleth in an howſe</l>
+            <l>
+               <pb facs="tcp:184243:5"/>
+Nor earyn of a mouſe</l>
+            <l>Nor rotten is nor ruſtye</l>
+            <l>Nor moth eaten nor muſtye</l>
+            <l>Nor lyght as is a fether</l>
+            <l>Nor blowne awaye with wether</l>
+            <l>Nor moulde or he be ſpent</l>
+            <l>Nor yet with ſyre be brente</l>
+            <l>Nor can no more be ſlayne</l>
+            <l>Nor offered vp agayne</l>
+            <l>Bleſſed ſacrament for thy paſſion</l>
+            <l>Here and ſe our exclamacion</l>
+            <l>Agaynſt theſe men of newe facion</l>
+            <l>That ſtryue agaynſt the holy nacion</l>
+            <l>And Ieſt of them in playes</l>
+            <l>In tauerns and bye wayes</l>
+            <l>And theyr good ac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es dyſprayſe</l>
+            <l>And martyrs wolde them make</l>
+            <l>That brent were at a ſtake</l>
+            <l>And ſynge pype mery annot</l>
+            <l>And play of wyll not cannot</l>
+            <l>And as for cannot and wyll not</l>
+            <l>Thoughe they ſpeake not of it it ſkyll not</l>
+            <l>For a noble clarke of late</l>
+            <l>And worthy in eſtate</l>
+            <l>Hath played with them chekmate</l>
+            <l>Theyr courage to abate</l>
+            <l>
+               <pb facs="tcp:184243:6"/>
+Marke well his text</l>
+            <l>He hath ben curſtly vext</l>
+            <l>I teare me he be wext</l>
+            <l>A popiſtant flour</l>
+            <l>Surely all the rout</l>
+            <l>That heres hym ſhall doubt</l>
+            <l>He wyll be in and out</l>
+            <l>Prowlynge rounde about</l>
+            <l>To get forth the ſuout</l>
+            <l>If prayer maye do good</l>
+            <l>All the whole broode</l>
+            <l>Skuruy, ſhabed, and ſkalde</l>
+            <l>Shauen ſhorne, and balde</l>
+            <l>Pore prieſtes of Baule</l>
+            <l>We praye for hym all</l>
+            <l>Unto the God of breade</l>
+            <l>For yt he be deade</l>
+            <l>We maye go to bed</l>
+            <l>Blyndefylde and beled</l>
+            <l>Without rag or ſhred</l>
+            <l>But I am ſore adred</l>
+            <l>I ſe hym lake ſo red</l>
+            <l>Yet I durſte ley my heade</l>
+            <l>As doctor fryer ſayde</l>
+            <l>He hath ſome what in ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore</l>
+            <l>Well you ſhall knewe more</l>
+            <l>
+               <pb facs="tcp:184243:6"/>
+Herken well therfore</l>
+            <l>Some ſhall paye the ſhore</l>
+            <l>He hath ben a pardoner</l>
+            <l>And alſo a garddener</l>
+            <l>He hath ben a vytailer</l>
+            <l>A lordly hoſpytelar</l>
+            <l>A noble teacher</l>
+            <l>And ſo ſo a preacher</l>
+            <l>Thoughe Germyn his man</l>
+            <l>Were hanged what than?</l>
+            <l>Saye worſſe and you can</l>
+            <l>Beſt let hym alone</l>
+            <l>For Peter Iames and Iohn</l>
+            <l>And Apoſtles euery one</l>
+            <l>I gyue you playne warnynge</l>
+            <l>Had neuer ſuch learnynge</l>
+            <l>As hath this famous clarke</l>
+            <l>He is learned be beyond the marke</l>
+            <l>And alſo maiſter huggarde</l>
+            <l>Doth ſhewe hym ſelfe no ſluggarde</l>
+            <l>Nor yet no dronken druggarde</l>
+            <l>But ſharpeth vp his wyt</l>
+            <l>And frameth it ſo fyt</l>
+            <l>Theſe yonkers for to hyt</l>
+            <l>And wyll not them permyt</l>
+            <l>In errour ſhall to ſyt</l>
+            <l>As it maye weliapeare</l>
+            <l>
+               <pb facs="tcp:184243:7"/>
+By his clarkely anſwere</l>
+            <l>The whiche intitled is</l>
+            <l>Agaynſt what meaneth this</l>
+            <l>A man of olde ſorte</l>
+            <l>And wryteth not in ſporte</l>
+            <l>But anſwereth earneſtly</l>
+            <l>Concludynge hereſy</l>
+            <l>And yet as I trowe</l>
+            <l>Some bluſter and blowe</l>
+            <l>And crake (as they crowe)</l>
+            <l>But nettes wyll we laye</l>
+            <l>To cache them yf we maye</l>
+            <l>For yf I begynne</l>
+            <l>I wyll brynge them in</l>
+            <l>And feche in my coſens</l>
+            <l>By the whole doſens</l>
+            <l>And call them coram nobis</l>
+            <l>And teache them do minus vobis</l>
+            <l>With his et cum ſpiritu tuo</l>
+            <l>That holy be both dao</l>
+            <l>When they be ſayde and ſonge</l>
+            <l>In holy latyn tongue</l>
+            <l>And ſolemne belles be ronge</l>
+            <l>But theſe babes be to yonge</l>
+            <l>Perkynge vpon theyr patins</l>
+            <l>And fayne wolde haue the mattens</l>
+            <l>
+               <pb facs="tcp:184243:7"/>
+And eueinge ſonge alſo</l>
+            <l>In Engliſhe to be do</l>
+            <l>With mariage and baptyſinge</l>
+            <l>Buryalles and other thynge</l>
+            <l>In vulgare tongue to ſaye and ſynge</l>
+            <l>And ſo they do it newly</l>
+            <l>In dyuerſe places truly</l>
+            <l>Sayinge they do but duely</l>
+            <l>Mayntainynge it in any wyſe</l>
+            <l>So ſhulde they do theyr ſeruyce</l>
+            <l>Alas who wolde not mone</l>
+            <l>Or rather grunt or groue</l>
+            <l>To ſe ſuche ſeruyce gone</l>
+            <l>Whiche ſaued many one</l>
+            <l>From deadly ſynne and ſhame</l>
+            <l>And many a ſpote of blame</l>
+            <l>From purgatorye payne</l>
+            <l>And many ſhowre of rayne</l>
+            <l>Well yet I ſaye agayne</l>
+            <l>Some honeſt men remayne</l>
+            <l>And kepe theyr cuſtomes ſtyll</l>
+            <l>And euer more wyll</l>
+            <l>Wherfore in dede my read iſ</l>
+            <l>To take you to your beades</l>
+            <l>All men and women I ſaye</l>
+            <l>That vſeth ſo to praye.</l>
+            <l>
+               <pb facs="tcp:184243:8"/>
+That ſuche good prieſtes maye</l>
+            <l>Contynue ſo alwaye</l>
+            <l>Orels none otherlyke</l>
+            <l>But al lyeth in the dyke</l>
+            <l>And loke ye do not faynt</l>
+            <l>But praye to ſome good ſaynt</l>
+            <l>That he maye make reſtraint</l>
+            <l>Of all theſe ſtraunge farions</l>
+            <l>And great abomynacions,</l>
+            <l>Becauſe I maye nor tary</l>
+            <l>I praye to ſwete ſyr Harry</l>
+            <l>A man that wyl not vary</l>
+            <l>And one that is no ſculker</l>
+            <l>But kan<g ref="char:punc">▪</g>knyghte of the Sepulchre</l>
+            <l>That he maye ſtande faſt</l>
+            <l>And be not ouer caſt</l>
+            <l>Or els to be the laſt</l>
+            <l>Of all them that do yelde</l>
+            <l>In cyte towne or fielde</l>
+            <l>For yf he ſtyke therin</l>
+            <l>No doubt he ſhall not blyn</l>
+            <l>Tyll he come to eternytie</l>
+            <l>With all his whole fraternyte</l>
+            <l>Amen therfore ſaye ye</l>
+            <l>That his partakers be</l>
+            <l>Ye get no more of me.</l>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:184243:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
